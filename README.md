@@ -30,7 +30,6 @@ Movie-Analytics-Dashboard/
 ├── app.py                 # Streamlit application
 ├── data/                  # Movie dataset
 ├── notebooks/             # Exploratory analysis (optional)
-├── assets/                # Images or additional resources
 ├── requirements.txt       # Project dependencies
 └── README.md
 ```
